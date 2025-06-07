@@ -2,7 +2,7 @@
 
 
 - 🔭 Cursando informática-IFCE
-- 🌱 Estudando Java e JavaScript
+- 🌱 Estudando Dart e JavaScript
 - 😄 Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
